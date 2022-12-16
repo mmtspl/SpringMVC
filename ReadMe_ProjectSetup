@@ -23,4 +23,8 @@ Start up the application :
 	
 Url
 
+<<<<<<< HEAD
 	http://localhost:8080/SpringMVC/
+=======
+	http://localhost:8080/SpringMVC/
+>>>>>>> branch 'master' of https://github.com/mithunmajumdar/SpringMVC.git
